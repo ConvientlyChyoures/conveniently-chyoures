@@ -1,0 +1,56 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conveniently Chyoures LLC</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    header {
+      background: #2b2b2b;
+      color: #fff;
+      padding: 2rem 1rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+    }
+    .highlight {
+      color: #00b894;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Conveniently Chyoures LLC</h1>
+    <p>Your <span class="highlight">Concierge of Clairvoyance</span></p>
+  </header>
+
+  <main>
+    <p>We offer elite, discreet, and convenient chore-based services tailored for your lifestyle.</p>
+    <p>Professional. Private. Precise. Powered by distinction.</p>
+    <p>Coming soon: Online booking, subscriptions, and client portal.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Conveniently Chyoures LLC. All Rights Reserved.
+  </footer>
+</body>
+</html>
